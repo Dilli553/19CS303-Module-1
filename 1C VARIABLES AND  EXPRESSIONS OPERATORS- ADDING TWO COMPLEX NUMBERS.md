@@ -12,9 +12,9 @@ To write a Python program for adding two complex numbers, and get the user input
 6. Terminate the program.
 
 ## PROGRAM
-## Reg.No-212223060111
+## Reg.No-212223060055
 
-## Name- KANDHA KUMAR M
+## Name- DILLI BABU T Y
 ```
 a=eval(input())
 b=eval(input())
